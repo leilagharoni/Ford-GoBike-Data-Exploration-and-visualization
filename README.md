@@ -1,5 +1,4 @@
 # Ford-GoBike-Data-Exploration-and-visualization
-# Ford GoBike Data Explanatory(Part 2)
 # by Leila Gharoni
 
 ## Table of Content
